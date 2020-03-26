@@ -4,7 +4,7 @@ Taxi system with OO grogramming
 模拟出租车的乘客呼叫与应答系统，并对出租车服务和监控的功能进行扩充，进一步训练类规格、过程规格的规范书写和对LSP(Liskov Substitution Principle)原则的理解与应用。
 
 
-更多要求详见instruction.pdf。
+更多要求详见instruction.pdf。需求分析和类说明详见需求分析文档.pdf。
 
 
 程序说明文档(readme.pdf)，内容包括:
